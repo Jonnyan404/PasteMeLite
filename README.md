@@ -31,4 +31,6 @@
 
 ## Deploy
 
+`git submodule update --init --recursive`
+
 [PasteMe Lite Deploy Documentation](./doc/DEPLOY.md)
